@@ -31,4 +31,15 @@ var numero_tres = prompt("Ingrese el numero par multiplicar la suma");
 var producto = (suma * numero_tres);
 console.log("Multiplicacion de la suma por el ultimo numero"+" "+producto);
 ```
+![li](https://github.com/FelipeeMartinez/READMEt6/blob/master/Imagenes/3.png)
+
+## Ejercicio 4
+
+```javascript
+var kilometros = prompt("Ingrese el numero de kilometros recorridos");
+var litros_combustible = prompt("Ingrese el numero de litros de combustibleque consumio durante el recorrido");
+var division = (kilometros/litros_combustible);
+console.log("El consumo por kilometro es de:" + " "+division);
+```
+![li](https://github.com/FelipeeMartinez/READMEt6/blob/master/Imagenes/4.png)
 
